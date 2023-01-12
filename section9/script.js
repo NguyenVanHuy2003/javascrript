@@ -53,7 +53,7 @@ const restaurant = {
         console.log(otherIngredients);
     }
 };
-dsfdsfdfdffđfdf
+
 const ordersSet = new Set ([
     'Pasta',
     'Pizza',
